@@ -6,10 +6,11 @@ comp_score = 0
 """A loop to play again and again"""
 
 while True:
-    user_action = str(input("Enter your choice (rock, paper, scissors): "))
+    user_action = str(input("Enter your choice (rock, paper or scissors): "))
 
     """Check if user choice is valid or not"""
-    while user_action != "rock" and user_action != "paper" and user_action != "scissors":
+    while user_action != "rock" and user_action != "paper" \
+            and user_action != "scissors":
         user_action = str(input("Invalid choice, please enter again: "))
 
     """Assign random choice to computer"""
