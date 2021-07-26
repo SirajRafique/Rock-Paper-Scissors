@@ -23,7 +23,7 @@ while True:
 
     """Determine who won and calculate score, 1 point for a win."""
     if user_action == computer_action:
-        print(f"Both players selected {user_action}. It's a tie!")
+        print(f"You both selected {user_action}. It's a tie!")
 
     elif user_action == "rock":
         if computer_action == "scissors":
