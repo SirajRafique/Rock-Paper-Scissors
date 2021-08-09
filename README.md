@@ -70,4 +70,5 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
     
 ![image](https://user-images.githubusercontent.com/80712910/128760627-3e8363f6-5d90-4886-a52b-fd2c0a62a49b.png)
 
-When passing the code through PEP8 the above error showed. This has now been fixed. I moved the code to a new line. 
+When passing the code through PEP8 the above error showed. 
+This has now been fixed. I moved the code to a new line. 
