@@ -95,4 +95,18 @@ The application was deployed via Heroku.
 
 4. Use the following command in the terminal 'pip3 freeze > requirements.txt'.
 
+5. Create an account with Heroku - sign up for free and fill out the form. 
+
+6. Confirm your email and accept the terms of service. 
+
+7. Create a new app from the dashboard and name it. 
+
+8. It's important to get your settings done before you deploy. 
+
+9. Add buildpack - python and nodejs in that order. 
+
+10. Go to deploy section now and select github to connect your github and search for your repository. Manual deploy branch. 
+
+
+
 
