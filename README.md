@@ -8,7 +8,7 @@ This is a classic game of rock, paper and scissors. The aim is to use logical co
 
 The command-line application has been deployed to a cloud-based platform. 
 
-You can view it [here](https://sirajrafique.github.io/The-Language-Hub/) 
+You can view it [here](https://ms3-rock-paper-scissors.herokuapp.com/) 
 
 ## Table of Contents
 -----------------------------------------------------------------
