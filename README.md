@@ -16,13 +16,12 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
 * [1. UX](#UX) 
     * [1.1 User Goals](#user-goals) 
     * [1.2 Flow Chart](#flowchart) 
-* [2. Features](#features) 
-* [3. Technology Used](#technologyused) 
-* [4. Testing](#testing) 
-* [5. Bugs Discovered](#bugsdiscovered) 
-* [6. Deployment](#deployment) 
-* [7. End Product](#endproduct)
-* [8. Credits](#credits) 
+* [2. Technology Used](#technologyused) 
+* [3. Testing](#testing) 
+* [4. Bugs Discovered](#bugsdiscovered) 
+* [5. Deployment](#deployment) 
+* [6. End Product](#endproduct)
+* [7. Credits](#credits) 
 
 <a name="UX"></a>  
 **1. UX**
@@ -41,3 +40,18 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
 **1.2 Flow Chart:**
 
 ![image](https://user-images.githubusercontent.com/80712910/128757334-a95ba306-5e88-4f35-ac13-1e12f610c753.png)
+
+<a name="technologyused"></a>
+**2. Technologies Used**
+---------------------
+
+[*GO TO THE TOP*](#UX) <a name="UX"></a>
+
+* Python
+    
+* GitHub
+
+* Lucidchart 
+
+* Heroku 
+    
