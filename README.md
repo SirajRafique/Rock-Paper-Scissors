@@ -6,15 +6,15 @@ Welcome to my third project. A text based game, written completely in python for
 
 This is a classic game of rock, paper and scissors. The aim is to use logical considerations, compete and try to win against the computer.    
 
-You can view the deployed website [here](https://sirajrafique.github.io/The-Language-Hub/) 
+The command-line application has been deployed to a cloud-based platform. 
 
-![responsive](https://user-images.githubusercontent.com/80712910/120085486-75fa4a80-c0d0-11eb-9e5a-560f7b87f4b7.PNG)
+You can view it [here](https://sirajrafique.github.io/The-Language-Hub/) 
 
 ## Table of Contents
 -----------------------------------------------------------------
 
 * [1. UX](#UX) 
-    * [1.1 Client Stories](#clientstories) 
+    * [1.1 User Goals](#user-goals) 
     * [1.2 Flow Chart](#flowchart) 
 * [2. Features](#features) 
 * [3. Technology Used](#technologyused) 
@@ -28,8 +28,14 @@ You can view the deployed website [here](https://sirajrafique.github.io/The-Lang
 **1. UX**
 ---------
 
- <a name="clientstories"></a>           
-**1.1 Client Stories:** 
+ <a name="user-goals"></a>           
+**1.1 User Goals:** 
+
+1. As a user, I want to be able to play a logical game.
+2. As a user, I want to be able to play against the computer.
+3. As a user, I want to be able to see the score.
+4. As a site owner, I want to the user to know if there is empty or invalid input data.
+5. As a site owner, I want the user to be able to end the game or continue playing. 
 
 <a name="mockup"></a>
 **1.2 Flow Chart:**
