@@ -77,6 +77,7 @@ Manually testing user goals:
 ![image](https://user-images.githubusercontent.com/80712910/128760627-3e8363f6-5d90-4886-a52b-fd2c0a62a49b.png)
 
 When passing the code through PEP8 the above error showed. 
+
 This has now been fixed. I moved the code to a new line. 
 
 <a name="deployment"></a>
@@ -85,7 +86,7 @@ This has now been fixed. I moved the code to a new line.
 
 [*GO TO THE TOP*](#UX) <a name="UX"></a>
 
-The application was deployed via Heroku.
+The application was deployed via Heroku. This is how:
 
 1. A python essential template was already created to get the project working in a mock terminal and out onto a webpage. 
 
@@ -108,5 +109,10 @@ The application was deployed via Heroku.
 10. Manual deploy branch and then select view. 
 
 
+<a name="endproduct"></a>
+**6. End Product** 
+-----------
 
+[*GO TO THE TOP*](#UX) <a name="UX"></a>
 
+![image](https://user-images.githubusercontent.com/80712910/128779654-d19d8bb1-d9a1-4849-87f4-2dbbbec23cbd.png)
