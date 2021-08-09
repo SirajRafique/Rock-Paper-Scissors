@@ -54,4 +54,20 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
 * Lucidchart 
 
 * Heroku 
+
+<a name="testing"></a> 
+**3. Testing**
+---------------------------------
+
+[*GO TO THE TOP*](#UX) <a name="UX"></a>
+
+
+<a name="bugsdiscovered"></a>
+**4. Bugs Discovered** 
+--------------------------------
+
+[*GO TO THE TOP*](#UX) <a name="UX"></a>
     
+![image](https://user-images.githubusercontent.com/80712910/128760627-3e8363f6-5d90-4886-a52b-fd2c0a62a49b.png)
+
+When passing the code through PEP8 the above error showed. This has now been fixed. I moved the code to a new line. 
