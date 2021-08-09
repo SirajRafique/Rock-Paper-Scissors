@@ -96,31 +96,3 @@ The application was deployed via Heroku.
 4. Use the following command in the terminal 'pip3 freeze > requirements.txt'.
 
 
-Heroku will use this file to import the dependencies that are required.
-Log into or sign up to Heroku(it's free).
-If signing up, you will need to wait and accept an authentication email.
-Navigate to Dashboard.
-Click "New" and select "create new app" from the drop-down menu. This is found in the upper right portion of the window.
-Provide a name for your application, this needs to be unique, and select your region.
-Click "Create App"
-
-
-
-1.	First, Log into GitHub: Where the world builds software
-2.	Once logged in, find repositories - could be on the left hand side or at the top. From the list, choose _Rock Paper Scissors_.
-3.	From the menu items at the top of the page select settings.
-4.	Scroll down to the GitHub pages section.
-5.	Under source, click the drop-down menu labelled ‘None’ and select master branch. 
-6.	On selecting master branch, the page is automatically refreshed, the website is now deployed.
-7.	Scroll back down to the GitHub pages section to reference/retrieve the link. 
-
-How to run this project locally and to clone the project into Gitpod:
-
-1.	A GitHub account - create an account
-2.	Use the chrome browser
-3.	Install the Gitpod extensions for chrome
-4.	Restart the browser
-5.	Login to Gitpod with your Github account
-6.	Navigate to the project GitHub repository
-7.	Click the green Gitpod button top right-hand corner
-8.	This will trigger a new Gitpod workspace to be created from the code where you can work locally
