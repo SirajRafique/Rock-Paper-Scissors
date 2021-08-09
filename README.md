@@ -89,11 +89,11 @@ The application was deployed via Heroku.
 
 1. A python essential template was already created to get the project working in a mock terminal and out onto a webpage. 
 
-2. We need to create a list of requirements that our project needs to run. 
+2. Use pip3 freeze > requirements.txt to import required dependencies. 
 
-3. In order for the project to run on Heroku, we need Heroku to install these dependencies. The list of dependencies will go in our requirements.txt file. 
+3. In order for the input method to work correctly make sure you add a new line character \n at the end of the text inside the input method.
 
-4. Use the following command in the terminal 'pip3 freeze > requirements.txt'.
+4. Make sure your code is ready to be imported.
 
 5. Create an account with Heroku - sign up for free and fill out the form. 
 
@@ -101,11 +101,11 @@ The application was deployed via Heroku.
 
 7. Create a new app from the dashboard and name it. 
 
-8. It's important to get your settings done before you deploy. 
+8. Add buildpack - python and nodejs in that order. 
 
-9. Add buildpack - python and nodejs in that order. 
+9. Go to deploy section now and select github to connect your github and search for your repository.
 
-10. Go to deploy section now and select github to connect your github and search for your repository. Manual deploy branch. 
+10. Manual deploy branch and then select view. 
 
 
 
