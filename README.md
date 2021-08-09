@@ -21,7 +21,6 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
 * [4. Bugs Discovered](#bugsdiscovered) 
 * [5. Deployment](#deployment) 
 * [6. End Product](#endproduct)
-* [7. Credits](#credits) 
 
 <a name="UX"></a>  
 **1. UX**
@@ -61,6 +60,13 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
 
 [*GO TO THE TOP*](#UX) <a name="UX"></a>
 
+Code passes through a linter (PEP8) with no issues.
+
+![image](https://user-images.githubusercontent.com/80712910/128761745-99197890-7277-465b-a681-97c656bcf025.png)
+
+Manually testing user goals: 
+
+
 
 <a name="bugsdiscovered"></a>
 **4. Bugs Discovered** 
@@ -72,3 +78,4 @@ You can view it [here](https://sirajrafique.github.io/The-Language-Hub/)
 
 When passing the code through PEP8 the above error showed. 
 This has now been fixed. I moved the code to a new line. 
+
