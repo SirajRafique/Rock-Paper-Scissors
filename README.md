@@ -2,11 +2,14 @@
 
 ## Introduction 
 
-Welcome to my third project. A text based game, written completely in python for people of all ages.  
+Rock Paper Scissors is a python terminal game, which runs in Code Institute's mock terminal on Heroku. 
 
-This is a classic game of rock, paper and scissors. The aim is to use logical considerations, compete and try to win against the computer.    
+A classic text based game for people of all ages.  
 
-The command-line application has been deployed to a cloud-based platform. 
+The aim is to use logical considerations, compete and try to win against the computer.  
+
+To play, the user simply chooses from either rock, paper or scissors. 
+Rock smashes scissors, paper eats rock and scissors cuts paper.
 
 You can view it [here](https://ms3-rock-paper-scissors.herokuapp.com/) 
 
