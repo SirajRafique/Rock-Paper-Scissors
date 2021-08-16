@@ -26,6 +26,7 @@ You can view it [here](https://ms3-rock-paper-scissors.herokuapp.com/)
 * [4. Bugs Discovered](#bugsdiscovered) 
 * [5. Deployment](#deployment) 
 * [6. End Product](#endproduct)
+* [7. Credits](#credits)
 
 <a name="UX"></a>  
 **1. UX**
@@ -65,13 +66,22 @@ You can view it [here](https://ms3-rock-paper-scissors.herokuapp.com/)
 
 [*GO TO THE TOP*](#UX) <a name="UX"></a>
 
-Code passes through a linter (PEP8) with no issues.
-
-![image](https://user-images.githubusercontent.com/80712910/128761745-99197890-7277-465b-a681-97c656bcf025.png)
-
 Manually testing user goals: 
 
 
+I have manually tested this project by doing the following:
+
+* Passed the code through a linter (PEP8) with no issues.
+
+![image](https://user-images.githubusercontent.com/80712910/128761745-99197890-7277-465b-a681-97c656bcf025.png)
+
+* Given invalid inputs, numbers when strings are expected, spelling mistakes and abbreviations. 
+
+* Tested in my local terminal and the Code Institute Heroku terminal. 
+
+### Validator testing 
+
+PEP8 - No errors were returned from PEP8online.com
 
 <a name="bugsdiscovered"></a>
 **4. Bugs Discovered** 
@@ -121,3 +131,11 @@ The application was deployed via Heroku. This is how:
 [*GO TO THE TOP*](#UX) <a name="UX"></a>
 
 ![image](https://user-images.githubusercontent.com/80712910/128779654-d19d8bb1-d9a1-4849-87f4-2dbbbec23cbd.png)
+
+<a name="credits"></a>
+**7. Credits** 
+--------------------------------
+
+[*GO TO THE TOP*](#UX) <a name="UX"></a>
+
+Code Institute for the deployment terminal.
