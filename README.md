@@ -10,6 +10,8 @@ The command-line application has been deployed to a cloud-based platform.
 
 You can view it [here](https://ms3-rock-paper-scissors.herokuapp.com/) 
 
+![image](https://user-images.githubusercontent.com/80712910/129610508-d2649a45-0a59-4a4e-812c-be31005993c2.png)
+
 ## Table of Contents
 -----------------------------------------------------------------
 
