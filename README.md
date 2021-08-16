@@ -66,18 +66,15 @@ You can view it [here](https://ms3-rock-paper-scissors.herokuapp.com/)
 
 [*GO TO THE TOP*](#UX) <a name="UX"></a>
 
-Manually testing user goals: 
-
-
 I have manually tested this project by doing the following:
 
 * Passed the code through a linter (PEP8) with no issues.
 
 ![image](https://user-images.githubusercontent.com/80712910/128761745-99197890-7277-465b-a681-97c656bcf025.png)
 
-* Given invalid inputs, numbers when strings are expected, spelling mistakes and abbreviations. 
+* Given invalid inputs, numbers when strings are expected, spelling mistakes and abbreviations. Error is shown as expected.
 
-* Tested in my local terminal and the Code Institute Heroku terminal. 
+* Tested user stories in my local terminal and the Code Institute Heroku terminal - working as expected.  
 
 ### Validator testing 
 
